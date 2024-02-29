@@ -1,0 +1,36 @@
+body{
+    background-color: red;
+}
+.container {
+    width: 300px;
+    margin: 0 auto;
+    border: 2px dashed black;
+    padding: 10px;
+}
+.nts{
+    text-align: center;
+}
+/* label{
+    width: 50%;
+    background-color: yellow;
+} */
+input {
+    width: 50%;
+}
+
+.inputinfo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    align-items: center;
+}
+select{
+    width: 53%;
+}
+.radioinputs{
+    width: 70%;
+}
+img{
+    width: 100px;
+   border: 2px solid black;
+}
